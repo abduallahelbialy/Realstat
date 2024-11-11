@@ -1,0 +1,15 @@
+@import './base.css';
+
+body{
+      font-family: "Cairo", sans-serif !important;
+
+}
+.card{
+          background-color: transparent !important;
+    border: none !important;
+    color: orange !important;
+}
+.p-rating-icon {
+    
+    padding: 0 4px;
+}
