@@ -336,5 +336,8 @@ textarea {
   iframe {
     width: 340px !important;
   }
+  .map{
+    display: none;
+  }
 }
 </style>

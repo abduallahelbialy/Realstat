@@ -355,7 +355,7 @@ a {
     display: none;
   }
   .box {
-    width: 354px;
+    width: 330px;
     margin: auto;
   }
   .text {

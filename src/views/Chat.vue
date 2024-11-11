@@ -284,6 +284,11 @@ export default {
 
     margin: 10px 0;
   }
+  .send-button {
+
+    padding: 5px 8px;
+    
+}
 }
 @media (max-width: 799px) {
   .chat-container {
