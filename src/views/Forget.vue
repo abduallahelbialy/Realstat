@@ -175,7 +175,7 @@ export default {
     font-size: 12px;
   }
   .box {
-    width: 356px;
+    width: 330px;
     margin: auto;
   }
   .forget {
